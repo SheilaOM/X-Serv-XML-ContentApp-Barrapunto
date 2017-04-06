@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://barrapunto.com/">
+<title>Barrapunto</title>
+<link>http://barrapunto.com/</link>
+<description>La informaci&#243;n que te interesa</description>
+<dc:language>EN</dc:language>
+<dc:rights>Copyleft 1999-2006, Barrapunto</dc:rights>
+<dc:date>2009-11-02T11:10:16+00:00</dc:date>
+<dc:publisher>Barrapunto S.L.</dc:publisher>
+<dc:creator>webmaster@barrapunto.com</dc:creator>
+<dc:subject>Tecnolog&#237;a, Software libre</dc:subject>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=09/11/01/1248204&amp;from=rss" />
+  <rdf:li rdf:resource="http://preguntas.barrapunto.com/article.pl?sid=09/10/31/158201&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=09/10/31/1458240&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=09/10/30/2112210&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=09/10/30/171237&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=09/10/30/1651230&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=09/10/30/1517245&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=09/10/30/112249&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=09/10/30/0923232&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=09/10/29/1648254&amp;from=rss" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://barrapunto.com/images/topics/topicbarrapunto.png" />
+<textinput rdf:resource="http://barrapunto.com/search.pl" />
+</channel>
+
+<image rdf:about="http://barrapunto.com/images/topics/topicbarrapunto.png">
+<title>Barrapunto</title>
+<url>http://barrapunto.com/images/topics/topicbarrapunto.png</url>
+<link>http://barrapunto.com/</link>
+</image>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=09/11/01/1248204&amp;from=rss">
+<title>Publicaci&#243;n de Tryton 1.4</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=09/11/01/1248204&amp;from=rss</link>
+<description>CarlosPM nos cuenta: &amp;#171;El equipo de desarrollo de Tryton tiene el gusto de anunciar la nueva versi&amp;#243;n 1.4 de este software de gesti&amp;#243;n de empresas, joven pero realmente potente. Esta nueva serie viene con nuevos m&amp;#243;dulos, seguridad, mejoras de rendimiento as&amp;#237; como soporte para SQLite y da la bienvenida a Neso, la versi&amp;#243;n independiente de Tryton. Entre la lista de nuevas funcionalidades podemos destacar: Servidor de calendario CalDAV, soporte de vCard para los contactos, gesti&amp;#243;n b&amp;#225;sica de proyectos y partes de trabajo, listas de precios. Pod&amp;#233;is leer el anuncio completo de esta nueva versi&amp;#243;n en la web del proyecto&amp;#187;. El programa est&amp;#225; desarrollado en Python y PostgreSQL. Est&amp;#225; basado en TinyERP y tiene licencia GPL3.</description>
+<dc:creator>rvr</dc:creator>
+<dc:date>2009-11-01T13:00:00+00:00</dc:date>
+<dc:subject>pasta</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>17</slash:comments>
+<slash:hit_parade>17,15,10,5,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://preguntas.barrapunto.com/article.pl?sid=09/10/31/158201&amp;from=rss">
+<title>&#191;Mini-port&#225;til adecuado para programar?</title>
+<link>http://preguntas.barrapunto.com/article.pl?sid=09/10/31/158201&amp;from=rss</link>
+<description>coito y anodo nos cuenta: &amp;#171;Quisiera saber si alguno de vosotros es desarrollador de aplicaciones web o escritorio y usa un mini-port&amp;#225;til. Busco que el micro tenga soporte de VT, poder correr varias m&amp;#225;quinas virtuales, no tener que cargar con un 15" y no gastarme m&amp;#225;s de 500. &amp;#191;Conoc&amp;#233;is alguna plataforma que cumpla con esto, ya sea sin VT Hard?&amp;#187;</description>
+<dc:creator>rvr</dc:creator>
+<dc:date>2009-10-31T16:00:00+00:00</dc:date>
+<dc:subject>Port&#225;tiles</dc:subject>
+<slash:section>preguntas</slash:section>
+<slash:comments>64</slash:comments>
+<slash:hit_parade>64,62,40,15,2,2,2</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=09/10/31/1458240&amp;from=rss">
+<title>Firefox  3.5.4</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=09/10/31/1458240&amp;from=rss</link>
+<description>Acaba de publicarse la versi&amp;#243;n 3.5.4 de Firefox el navegador desarrollado por la fundaci&amp;#243;n Mozilla. Aparte de varias mejoras de estabilidad, hay varios fallos importantes de seguridad corregidos. Hay hasta seis fallos de seguridad cr&amp;#237;ticos corregidos, varios de los cuales pueden ser usados para lanzar ataques remotos - por ejemplo, visitando una p&amp;#225;gina web que incluya c&amp;#243;digo javascript malicioso o una imagen gif especialmente preparada para aprovechar la vulnerabilidad. Es importante actualizar a la &amp;#250;ltima versi&amp;#243;n del navegador, para estar protegido frente a estos problemas.</description>
+<dc:creator>Drizzt (posted by rvr)</dc:creator>
+<dc:date>2009-10-31T15:00:00+00:00</dc:date>
+<dc:subject>Mozilla</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>23</slash:comments>
+<slash:hit_parade>23,19,10,4,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=09/10/30/2112210&amp;from=rss">
+<title>La C&#225;tedra Telef&#243;nica de la UEx libera la primera beta del Proyecto LULA</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=09/10/30/2112210&amp;from=rss</link>
+<description>linuxer nos cuenta: &amp;#171;Cumpliendo con la fecha de lanzamiento prevista, la C&amp;#225;tedra Telef&amp;#243;nica de la Universidad de Extremadura pone a disposici&amp;#243;n de los usuarios la primera beta p&amp;#250;blica de LULA, una distribuci&amp;#243;n Linux acad&amp;#233;mica dirigida especialmente a estudiantes y profesores de universidades latinoamericanas. Adem&amp;#225;s de fomentar el uso de GNU/Linux y herramientas basadas en c&amp;#243;digo abierto, esta iniciativa ayudar&amp;#225; a establecer un marco de colaboraci&amp;#243;n entre distintas universidades, ya sea mediante la compartici&amp;#243;n de experiencias o incluso la posibilidad de coordinar proyectos en com&amp;#250;n. Noticia completa del lanzamiento junto con algunas caracter&amp;#237;sticas generales&amp;#187;.</description>
+<dc:creator>rvr</dc:creator>
+<dc:date>2009-10-31T06:00:00+00:00</dc:date>
+<dc:subject>educacion</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>17</slash:comments>
+<slash:hit_parade>17,17,4,1,1,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=09/10/30/171237&amp;from=rss">
+<title>Se inaugura el Centro de Supercomputaci&#243;n de Castilla y Le&#243;n</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=09/10/30/171237&amp;from=rss</link>
+<description>glasnosh nos cuenta &amp;#171;El Centro de Supercomputaci&amp;#243;n de Castilla y Le&amp;#243;n , ubicado en el Edificio CRAI-TIC de la Universidad de Le&amp;#243;n, ser&amp;#225; oficialmente inaugurado hoy d&amp;#237;a 30 de Octubre. Una gran noticia para la comunidad investigadora de la regi&amp;#243;n y tambi&amp;#233;n para el software libre ya que este nuevo centro utiliza GNU/Linux como sistema operativo en cada uno de los tres grandes clusters de que dispone (alrededor de 300 servidores y 2400 nucleos de proceso). La distribuci&amp;#243;n elegida ha sido RHEL5. El nombre elegido para el superordenador ha sido Cal&amp;#233;ndula y lleva funcionando en pruebas y caracterizaci&amp;#243;n desde principios de verano. Mas informaci&amp;#243;n en la web del Centro&amp;#187;.</description>
+<dc:creator>rvr</dc:creator>
+<dc:date>2009-10-30T19:00:00+00:00</dc:date>
+<dc:subject>Supercomputaci&#243;n</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,26,8,2,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=09/10/30/1651230&amp;from=rss">
+<title>Publicado abiCloud 1.0 RC1</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=09/10/30/1651230&amp;from=rss</link>
+<description>dmarino nos cuenta: &amp;#171;En abiquo hemos publicado la versi&amp;#243;n 1.0 (Release Candidate 1) de abiCloud: plataforma libre para gestionar nubes privadas, permitiendo orquestrar m&amp;#225;quinas virtuales, almacenamiento y redes. En esta versi&amp;#243;n se soportan los hypervisores VirtualBox (3.0), Xen y KVM, permitiendo desplegar entornos que incluyan varios de ellos a la vez. Adem&amp;#225;s, otras caracter&amp;#237;sticas interesantes son: 'multitenancy', gesti&amp;#243;n de eventos, soporte OVF, y configuraci&amp;#243;n b&amp;#225;sica de la infraestructura IT. Pod&amp;#233;is descargar los instaladores (Win/Linux) y los .war's en SourceForge. En la documentaci&amp;#243;n, pod&amp;#233;is encontrar las instrucciones de instalaci&amp;#243;n y uso, y si requer&amp;#237;s soporte, pod&amp;#233;is acceder a nuestros foros o al chat (irc.freenode.net, #abicloud)&amp;#187;.</description>
+<dc:creator>rvr</dc:creator>
+<dc:date>2009-10-30T17:00:00+00:00</dc:date>
+<dc:subject>Programaci&#243;n</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,3,2,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=09/10/30/1517245&amp;from=rss">
+<title>ICANN aprueba las direcciones web multilenguaje</title>
+<link>http://barrapunto.com/article.pl?sid=09/10/30/1517245&amp;from=rss</link>
+<description>Angel nos cuenta: &amp;#171;El ente regulador afirma que es "el mayor cambio en el funcionamiento de Internet desde su invenci&amp;#243;n hace 40 a&amp;#241;os. Ha aprobado los planes para que las direcciones web puedan escribirse en caracteres no latinos como en mandar&amp;#237;n, &amp;#225;rabe, hind&amp;#250; o mediante el alfabeto cir&amp;#237;lico ruso. Pondr&amp;#225; en marcha un proceso acelerado para la aprobaci&amp;#243;n del r&amp;#233;gimen, el 16 de noviembre. Esto podr&amp;#237;a significar una explosi&amp;#243;n en el n&amp;#250;mero de personas que pueden usar Internet directamente con teclados desarrollados en sus propios idiomas. The Guardian&amp;#187;.</description>
+<dc:creator>rvr</dc:creator>
+<dc:date>2009-10-30T15:00:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,27,17,6,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=09/10/30/112249&amp;from=rss">
+<title>100 millones de descargas de OpenOffice.org 3.x</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=09/10/30/112249&amp;from=rss</link>
+<description>chonago nos cuenta: &amp;#171;Los desarrolladores de esta suite ofim&amp;#225;tica libre han revelado que el pasado 28 de octubre se produjo la descarga n&amp;#250;mero 100 millones de OpenOffice.org 3.x, todo un logro para esta soluci&amp;#243;n, alternativa real a Microsoft Office que a pesar de sus grandes prestaciones sigue sin tener la relevancia que deber&amp;#237;a en la PYME y en la gran empresa. Las &amp;#250;ltimas versiones de OpenOffice -que pod&amp;#233;is descargar ya mismo- siguen apostando por la interoperabilidad&amp;#187;.</description>
+<dc:creator>rvr</dc:creator>
+<dc:date>2009-10-30T11:00:00+00:00</dc:date>
+<dc:subject>OpenOffice</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>52</slash:comments>
+<slash:hit_parade>52,51,22,13,4,2,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=09/10/30/0923232&amp;from=rss">
+<title>Abiword 2.8 y AbiCollab.net</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=09/10/30/0923232&amp;from=rss</link>
+<description>En fedora-es cuentan que se ha Publicado Abiword 2.8 con muy notables y agradables mejoras: &amp;#171;Abiword es un procesador de texto que ya tiene varios a&amp;#241;os en el mundo del software libre y que forma parte del poco popular proyecto de GNOME Office, y que apunta a ser una alternativa libre hacia MS Word y una opci&amp;#243;n muy ligera para Writer de OpenOffice.org. La versi&amp;#243;n 2.8 ha sido publicada hace un par de d&amp;#237;as (hay un lanzamiento correctivo 2.8.1), y esta vez viene con varias impresionantes mejoras. Una de las m&amp;#225;s destacadas es el soporte para colaboraci&amp;#243;n basada en Telepathy, que permite a varios individuos trabajar remotamente en el mismo documento de manera simult&amp;#225;nea. [...] Como parte del nuevo soporte para colaboraci&amp;#243;n de documentos, se cre&amp;#243; el sitio AbiCollab.net un servicio gratuito y central que permite almacenar en l&amp;#237;nea y trabajar con documentos de Abiword 2.8&amp;#187;.</description>
+<dc:creator>rvr</dc:creator>
+<dc:date>2009-10-30T09:00:00+00:00</dc:date>
+<dc:subject>gnulinux</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>11</slash:comments>
+<slash:hit_parade>11,10,5,2,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=09/10/29/1648254&amp;from=rss">
+<title>Internet cumple 40 a&#241;os</title>
+<link>http://barrapunto.com/article.pl?sid=09/10/29/1648254&amp;from=rss</link>
+<description>fmfnet nos cuenta: &amp;#171;Aunque las pruebas piloto comenzaron algunos meses antes, se considera que Internet nace el 29 de octubre de 1969, cuando Charley Kline enviaba, desde UCLA SDS Sigma 7 (situado en la Universidad de California en Los &amp;#193;ngeles), un mensaje a su profesor Leonard Kleinrock, en SRI SDS 940 (situado en el Stanford Research Institute). Con este env&amp;#237;o entraba en servicio ARPANET, la red que mas tarde se convertir&amp;#237;a en Internet. Aquella primera Internet estaba formada por cuatro nodos, situados en: La Universidad de California en Los Angeles, Universidad de California en Santa Barbara, Universidad de Stanford y la Universidad de Utah&amp;#187;.</description>
+<dc:creator>rvr</dc:creator>
+<dc:date>2009-10-29T18:00:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>18</slash:comments>
+<slash:hit_parade>18,16,11,8,2,1,0</slash:hit_parade>
+</item>
+
+<textinput rdf:about="http://barrapunto.com/search.pl">
+<title>Search Barrapunto</title>
+<description>Search Barrapunto stories</description>
+<name>query</name>
+<link>http://barrapunto.com/search.pl</link>
+</textinput>
+
+</rdf:RDF>
