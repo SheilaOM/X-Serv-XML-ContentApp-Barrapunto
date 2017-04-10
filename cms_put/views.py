@@ -5,7 +5,7 @@ from django.views.decorators.csrf import csrf_exempt
 from xml.sax.handler import ContentHandler
 from xml.sax import make_parser
 import sys
-import os.path
+import urllib.request
 
 # Create your views here.
 
@@ -54,10 +54,7 @@ def update(request):
     theHandler = myContentHandler()
     theParser.setContentHandler(theHandler)
 
-    module_dir = os.path.dirname(__file__)
-    file_path = os.path.join(module_dir, 'barrapunto.rss')
-
-    xmlFile = open(file_path, "r")
+    xmlFile = urllib.request.urlopen("http://barrapunto.com/index.rss")
     theParser.parse(xmlFile)
 
     msg = "Contenidos de barrapunto actualizados"
